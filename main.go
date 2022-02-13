@@ -3,5 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.println("Jenkins Test")
+	fmt.Println("Jenkins Test")
+	fmt.Println("2")
 }
